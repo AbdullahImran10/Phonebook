@@ -7,7 +7,7 @@ A simple **C++ DSA-based Phonebook system** built using Object-Oriented Programm
 
 Abdullah Imran
 
-## 🚀 Features
+##  Features
 
 -  Add new contact
 -  Search contact by name
