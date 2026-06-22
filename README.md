@@ -13,7 +13,6 @@ Abdullah Imran
 -  Search contact by name
 -  Delete contact
 -  Save contacts to file
--  Load contacts from file (if implemented)
 -  Simple menu-driven interface
 
 ---
